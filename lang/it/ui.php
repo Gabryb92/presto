@@ -1,0 +1,33 @@
+<?php
+return [
+    'allArticles' => 'Sezione articoli',
+    'header1' => 'liberarsi dei regali brutti di natale al più',
+    'header2' => 'tanti articoli scontati per festeggiare il mese del',
+    'header3' => 'non buttare ciò che non usi più dobbiamo fare',
+    'tasto1' => 'PUBBLICA SUBITO UN ANNUNCIO',
+    'tasto2' => 'NON PERDERTELI',
+    'tasto3' => 'PRESTO GOES GREEN',
+    'annunci-nav' => 'Lista annunci',
+    'inse-ann-nav' => 'Inserisci annuncio',
+    'revisor-nav' => 'Area Revisore',
+    'cerca-nav' => 'Cerca',
+    'cat-nav' => 'Categorie',
+    'benvenuto' => 'Benvenuto',
+    'profilo'=> 'Profilo',
+    'footer1' => 'Entra nel team di',
+    'footer2' => 'Lavora con noi',
+    'ultimiart' => 'Ultimi annunci inseriti',
+
+    'abbigliamento' => 'Abbigliamento',
+    'arredamento' => 'Arredamento',
+    'arte' => 'Arte',
+    'automobili' => 'Automobili',
+    'elettronica' => 'Elettronica',
+    'giardinaggio' => 'Giardinaggio',
+    'libri' => 'Libri',
+    'luxury' => 'Luxury',
+    'musica' => 'Musica',
+    'sport' => 'Sport',
+    'viaggi' => 'Viaggi',
+
+];
